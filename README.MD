@@ -11,12 +11,6 @@
 1. [TOC](#toc)
 2. [Functionality](#functionality)
 3. [Online Demos](#online-demos)
-4. [Features](#features)
-5. [Functionality](#funtionality)
-6. [Example Usage](#example-usage)
-7. [Code Structure and Design](#code-structure-and-design)
-
-<img src="./image/spelling-converter-01.jpg" width="600">
 
 ## Functionality
 
