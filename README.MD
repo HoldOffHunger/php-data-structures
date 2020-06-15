@@ -4,8 +4,6 @@
 
 *We* return an analysis of it.
 
-<img src="./image/us-uk-spelling-converter-logo.jpg" width="600">
-
 ## TOC
 
 1. [TOC](#toc)
